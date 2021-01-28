@@ -1,4 +1,4 @@
-class Iron {
+class Hammer {
     constructor(x, y) {
       var options = {
         'density':1.5,
